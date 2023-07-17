@@ -1,0 +1,19 @@
+# Arquivos gerados pela IDE/Editor de texto
+.vscode/
+.idea/
+
+# Arquivos gerados pelo Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+venv/
+env/
+.venv/
+
+# Arquivos de log e cache
+*.log
+logs/
+*.swp
